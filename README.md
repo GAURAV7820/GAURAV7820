@@ -1,38 +1,14 @@
 <!-- 👨‍💻 CODER GIF -->
 
 <p align="center">
- <p align="center">
- <p align="center">
- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:4B0082&height=220&section=header&text=Gaurav%20Singh&fontSize=60&fontColor=FFFFFF&fontAlignY=40&desc=CSE%20Student%20|%20Aspiring%20Developer&descColor=FFFFFF&descAlignY=60&animation=fadeIn" width="100%" />
 </p>
-
-<br/>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=B48FFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+Web+%26+Beyond+%E2%9C%A8;Open+to+Opportunities+%F0%9F%8C%99;Let%27s+Build+Something+Magical!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=B48FFF&center=true&vCenter=true&width=600&lines=Building+Web+%26+Beyond" />
 </p>
-
-
-<br/>
-
-
-</p>
-
-</p>
-
-</p>
-
-</p>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=C%2B%2B+%7C+DSA+Enthusiast;Open+Source+Contributor;Building+Real+Projects;Future+Software+Engineer+🚀" />
-</p>
-
-<br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Gaurav Singh</h1>
 <h3 align="center">🚀 CSE Student | Aspiring Developer | Open Source Enthusiast</h3>
