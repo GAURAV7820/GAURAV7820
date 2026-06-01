@@ -4,7 +4,7 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDJ0YmR2Y21xZG8ycWl4bDJ6bmhheGM3ZmR5ZXVxdGhlMGlvM2d6cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vnOHnjfm8uJkZW4ky4/giphy.gif" width=100% />
 </p>
 
-<h1 align="center">Hi 👋, I'm Gaurav</h1>
+<h1 align="center">Hi 👋, I'm Gaurav Singh</h1>
 <h3 align="center">🚀 CSE Student | Aspiring Developer | Open Source Enthusiast</h3>
 
 <!-- Typing Animation -->
