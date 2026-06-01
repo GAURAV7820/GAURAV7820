@@ -91,6 +91,14 @@
 
 ---
 
+### 🏆 GitHub Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GAURAV7820&theme=tokyonight" />
+</p>
+
+---
+
 ### 📈 Top Languages
 
 <p align="center">
