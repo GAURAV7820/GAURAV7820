@@ -1,7 +1,9 @@
 <!-- 👨‍💻 CODER GIF -->
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDJ0YmR2Y21xZG8ycWl4bDJ6bmhheGM3ZmR5ZXVxdGhlMGlvM2d6cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vnOHnjfm8uJkZW4ky4/giphy.gif" width=100% />
+ <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Gaurav%20Singh&fontSize=55&fontColor=00F7FF&fontAlignY=35&desc=CSE%20Student%20|%20Aspiring%20Developer&descColor=FFFFFF&descAlignY=55&animation=fadeIn" width="100%" />
+</p>
 </p>
 
 <h1 align="center">Hi 👋, I'm Gaurav Singh</h1>
